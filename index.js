@@ -5,4 +5,8 @@ const name = "esha";
 function namqe() {
     console.log(`my name is ${name}`);
 }
+function newname() {
+    console.log("esha");
+}
+newname();
 namqe();
